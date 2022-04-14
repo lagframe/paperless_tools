@@ -1,4 +1,4 @@
 # paperless_backup_script
 
 ## Requirements:
-- borgbackup > 1.2
+- borgbackup >= 1.2
