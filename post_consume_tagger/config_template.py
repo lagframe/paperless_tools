@@ -4,7 +4,7 @@
 
 # PAPERLESS SERVER
 #
-# For example: "http://pi.local:8000"
+# For example: "http://127.0.0.1:8000"
 paperless = ""
 
 # AUTH TOKEN
